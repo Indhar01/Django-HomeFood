@@ -1,0 +1,4 @@
+django
+pip install django-widget-tweaks
+pip install django-crispy-forms
+Pillow
