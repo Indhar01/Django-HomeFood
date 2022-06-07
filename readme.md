@@ -1,4 +1,4 @@
-# Django Restaurant Order Management System (DjangoROMS)
+# Django Home Food
 
 ## About this application
 
@@ -37,6 +37,8 @@ to hide admin(Django administration).
 - Print Invoice
 - Easy interface
 - Mobile view
+- -Admin Panel
+- Order Status
 
 ## Uses
 * Restaurant Order
@@ -44,5 +46,5 @@ to hide admin(Django administration).
 * etc...
 
 ### Contact me 
-Facebook: facebook.com/Indhar36 <br>
-Email: Indhar36@gmail.com, inzamuk36@live.com, Indhar36@yahoo.com    
+
+Email: itsmeindirakumar@gmail.com 
